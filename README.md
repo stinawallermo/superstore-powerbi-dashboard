@@ -31,7 +31,7 @@ with comparison to the previous period. A trend line shows profit over time,
 a bar chart highlights the top and bottom cities, and a heatmap shows profit
 margin by region and year with drill-down to state level.
 
-![Strategic page](images/strategic.png)
+![Strategic page](DataVisualization_SuperStore/strategic.png)
 
 ### 2. Tactical – for regional and middle managers
 Breaks the big picture down to the region (Texas) to show where action is
@@ -39,20 +39,20 @@ needed. Sales are high but profit is negative. Bar charts with buttons let
 the user switch between sales/profit and profit margin, and a heatmap shows
 profit margin per city and quarter.
 
-![Tactical page - Sales & Profit](images/tactical1.png)
-![Tactical page - Profit Margin](images/tactical2.png)
+![Tactical page - Sales & Profit](DataVisualization_SuperStore/tactical1.png)
+![Tactical page - Profit Margin](DataVisualization_SuperStore/tactical2.png)
 
 ### 3. Operational – for the warehouse manager
 Granular data for acting "here and now". The detailed product table makes it easy to find products with
 a negative margin, which are highlighted in red.
 
-![Operational page](images/operational.png)
+![Operational page](DataVisualization_SuperStore/operational.png)
 
 ### 4. Summary – for everyone in the company
 Combines the most important parts of the three levels in one dashboard, with
 KPIs first and details further down.
 
-![Summary page](images/summary.png)
+![Summary page](DataVisualization_SuperStore/summary.png)
 
 ## Design choices
 - **Visual hierarchy:** KPIs at the top, details further down.
