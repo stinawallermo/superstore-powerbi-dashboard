@@ -66,7 +66,9 @@ KPIs first and details further down.
 - **UX principles:** Gestalt principles and Norman's design principles guided the layout, visual grouping and interaction design.
 
 ## Tools
-Power BI, DAX, Power Query
+- Power BI
+- DAX
+- Power Query
 
 ## Contributors
 Group project at Nackademin (BI Analyst programme). All team members
